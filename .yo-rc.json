@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "myapp",
+    "packageName": "pro.tremblay.myapp",
+    "packageFolder": "pro/tremblay/myapp",
+    "authenticationType": "cookie",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "atmosphere",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
