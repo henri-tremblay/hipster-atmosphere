@@ -6,7 +6,7 @@ The current errors are:
 At startup (mvn spring-boot:run)
 ---------------------------------
 
-	WARN] com.mangofactory.swagger.plugin.SwaggerPluginAdapter - SwaggerSpringMvcPlugin have already been initialized!
+	[WARN] com.mangofactory.swagger.plugin.SwaggerPluginAdapter - SwaggerSpringMvcPlugin have already been initialized!
 
 Then, when accessing http://localhost:8080
 ------------------------------------------
@@ -26,7 +26,7 @@ The list is empty at first
 
 Swagger errors keep popping
 
-	WARN] com.mangofactory.swagger.plugin.SwaggerPluginAdapter - SwaggerSpringMvcPlugin have already been initialized!
+	[WARN] com.mangofactory.swagger.plugin.SwaggerPluginAdapter - SwaggerSpringMvcPlugin have already been initialized!
 
 also some
 
